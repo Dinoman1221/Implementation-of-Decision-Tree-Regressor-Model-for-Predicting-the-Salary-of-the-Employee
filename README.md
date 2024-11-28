@@ -47,10 +47,8 @@ dt.predict([[5,6]])
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/28bfab12-4ece-4e03-96c0-3d1c606132f4)
-![image](https://github.com/user-attachments/assets/e831c7b8-edc1-4876-a06e-ef182d803b7d)
 
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![image](https://github.com/user-attachments/assets/ca1f50a9-3a70-4183-9ec8-f8b8122db536)
 
 
 ## Result:
